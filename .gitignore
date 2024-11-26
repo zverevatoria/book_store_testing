@@ -1,2 +1,9 @@
+# Игнорируем файл .DS_Store
 .DS_Store
+
+# Игнорируем файл README.md
+README.md
+
+# Игнорируем файл .gitignore
+.gitignore
 
